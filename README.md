@@ -15,4 +15,4 @@
 
 APK 已完成 ZIP 完整性检查和 Android 签名校验。此版本未包含本地 AI API Key 配置。
 
-请到本仓库的 [Releases](../../releases/latest) 下载 APK。
+请到本仓库的 [Releases](https://github.com/Zubulon-ai/timing-apk-download/releases/latest) 下载 APK。
